@@ -1,0 +1,22 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style: none;
+  float: left;
+  padding: 33px 20px;
+}
+
+.header {
+  background-color: cadetblue;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
