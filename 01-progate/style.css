@@ -24,6 +24,22 @@ li {
   padding: 33px 20px;
 }
 
+.main {
+  padding: 100px 80px;
+}
+
+.copy-container h1{
+    font-size: 140px;
+}
+
+.copy-container h1{
+    font-size: 60px;
+}
+
+.copy-container span{
+    color: red;
+}
+
 .footer {
   background-color: #2f5167;
   color: white;
@@ -40,6 +56,6 @@ li {
   float: right;
 }
 
-.footer-list li{
-    padding-bottom: 20px;
+.footer-list li {
+  padding-bottom: 20px;
 }
