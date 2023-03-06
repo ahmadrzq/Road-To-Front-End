@@ -46,10 +46,10 @@ li {
 }
 
 .section-title{
-    border-bottom: 2px solid #dee7ec;
     font-size: 28px;
     padding-bottom: 15px;
-    margin-bottom: 5px;
+    margin-bottom: 50px;
+    border-bottom: 2px solid #dee7ec;
 }
 
 .contents-item{
@@ -75,7 +75,12 @@ input, textarea{
     border: 1px solid #dee7ec;
 }
 
+.warning{
+    color: red;
+}
+
 .contact-submit{
+    width: 440px;
     background-color: #dee7ec;
     color: #889eab;
 }
